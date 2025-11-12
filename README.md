@@ -1,0 +1,1 @@
+# InvoiceDataExtractionApp-FullStack
